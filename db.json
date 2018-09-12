@@ -1,46 +1,14 @@
 {
-   "labels":[
-      "January",
-      "February",
-      "March",
-      "April",
-      "May",
-      "June",
-      "July",
-      "August",
-      "September",
-      "October",
-      "November",
-      "December"
-   ],
-   "datasets":[
-      {
-         "label":"Data One",
-         "backgroundColor":"#17a2b8",
-         "data":[
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-         ]
-      },
-      {
-         "label":"Data Two",
-         "backgroundColor":"#CCCCCC",
-         "data":[
-            8,
-            7,
-            6,
-            5,
-            4,
-            3,
-            2,
-            1
-         ]
-      }
-   ]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
