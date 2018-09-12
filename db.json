@@ -1,1 +1,46 @@
-
+{
+   "labels":[
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+   ],
+   "datasets":[
+      {
+         "label":"Data One",
+         "backgroundColor":"#17a2b8",
+         "data":[
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+         ]
+      },
+      {
+         "label":"Data Two",
+         "backgroundColor":"#CCCCCC",
+         "data":[
+            8,
+            7,
+            6,
+            5,
+            4,
+            3,
+            2,
+            1
+         ]
+      }
+   ]
+}
